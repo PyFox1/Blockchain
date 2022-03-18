@@ -2,7 +2,7 @@
 
 Run Blockchain:
 - Install https://www.postman.com/downloads/ 
-- Run Postman
+- Run Postman (including login)
 - Run create_blockchain.py
 - Show chain
 ![img.png](postman_get_chain.png)
