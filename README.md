@@ -1,4 +1,6 @@
-# Blockchain
+# Code as part of Udemy course "Blockchain A-Z™: Learn How To Build Your First Blockchain"
+
+URL: https://www.udemy.com/course/build-your-blockchain-az/
 
 Run Blockchain:
 - Install https://www.postman.com/downloads/ 
